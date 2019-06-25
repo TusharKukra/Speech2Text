@@ -3,7 +3,7 @@
 Install [flutter](http://flutter.io)
 
 ```bash
-cd sytody
+cd speechtotext
 flutter run
 ```
 
