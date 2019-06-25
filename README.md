@@ -17,10 +17,9 @@ flutter run
  
 ### Recognition
 
-- iOS : [Speech API](https://developer.apple.com/reference/speech) : 4 languages are enabled in Sytody : FR / EN / RU / IT
+- iOS : [Speech API](https://developer.apple.com/reference/speech) : 4 languages are enabled in Speech2Text : FR / EN / RU / IT
 - Android : [SpeechRecognizer](https://developer.android.com/reference/android/speech/SpeechRecognizer.html) : recognition should work with the device default locale, but some others may needs to be installed to enable other languages.
 
-### UI
 
 #### Task list
 
