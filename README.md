@@ -38,5 +38,5 @@ A [PopupMenuButton](https://docs.flutter.io/flutter/material/PopupMenuButton-cla
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
 
-### Original App: 
+### Original App by: 
 https://github.com/rxlabz/sytody
