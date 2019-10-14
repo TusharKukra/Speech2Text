@@ -1,6 +1,6 @@
 # Speech2Text
 
-Install [flutter](http://flutter.io)
+First Install [flutter](http://flutter.io)
 
 ```bash
 cd sytody
