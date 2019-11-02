@@ -9,7 +9,9 @@ flutter run
 
 ## How it works
 
-**TL;DR** The flutter app open a channel on the host platform. It uses it :
+**TL;DR** 
+
+The flutter app open a channel on the host platform. It uses it :
  
  - to ask for speech recognition and microphone usage. The permission is asked on the first application launch 
  - to start, cancel and stop the speech recognition 
